@@ -1,9 +1,12 @@
 # freeecommercewebsite
-Latest Free Ecommerce Responsive Website Template<br>
-Guys here is live demo and code snippet link : <a href="https://therichpost.com/vue-js-3-latest-free-ecommerce-responsive-website-template/">https://therichpost.com/vue-js-3-latest-free-ecommerce-responsive-website-template/</a>
 
+Latest Free Ecommerce Responsive Website Template
 
-Install nvm, Node.js, and npm
+Guys here is live demo and code snippet link :
+
+<https://therichpost.com/react-free-ecommerce-responsive-website-template-download/>
+
+## Install nvm, Node.js, and npm
 
 ```bash
 sudo apt install curl -y 
@@ -19,7 +22,15 @@ nvm install node
 sudo npm install -y -g create-react-app react-scripts
 ```
 
-# npx create-react-app app
-```
+## npx create-react-app app
+
+```bash
 npx create-react-app app
+```
+
+
+```bash
+npx express-generator myExpressApp --view ejs
+cd myExpressApp && npm install
+DEBUG=myexpressapp:* npm start
 ```

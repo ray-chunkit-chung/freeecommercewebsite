@@ -28,6 +28,11 @@ sudo npm install -y -g create-react-app react-scripts
 npx create-react-app app
 ```
 
+## Quick deployment to Azure App Service
+
+<https://learn.microsoft.com/en-us/azure/app-service/quickstart-nodejs?tabs=linux&pivots=development-environment-vscode>
+
+Developement
 
 ```bash
 npx express-generator myExpressApp --view ejs

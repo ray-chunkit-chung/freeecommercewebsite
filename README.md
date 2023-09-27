@@ -1,17 +1,14 @@
 # freeecommercewebsite
 
 Latest Free Ecommerce Responsive Website Template
-
-Guys here is live demo and code snippet link :
-
 <https://therichpost.com/react-free-ecommerce-responsive-website-template-download/>
 
 ## Install nvm, Node.js, and npm
 
 ```bash
-sudo apt install curl -y 
 sudo apt update
 sudo apt -y upgrade
+sudo apt install curl -y 
 
 # Install nvm
 curl https://raw.githubusercontent.com/creationix/nvm/master/install.sh | bash 
@@ -28,20 +25,11 @@ sudo npm install -y -g create-react-app react-scripts
 npx create-react-app app
 ```
 
-## Quick deployment to Azure App Service
+Copy app from
+Latest Free Ecommerce Responsive Website Template
+<https://therichpost.com/react-free-ecommerce-responsive-website-template-download/>
 
-<https://learn.microsoft.com/en-us/azure/app-service/quickstart-nodejs?tabs=linux&pivots=development-environment-vscode>
-
-Developement
-
-```bash
-npx express-generator myExpressApp --view ejs
-cd myExpressApp && npm install
-DEBUG=myexpressapp:* npm start
-```
-
-
-
+And then rename folders
 
 ## References
 
@@ -113,5 +101,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 #### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-
-
